@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,7 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
+
 # MembersOnly-FullStackWithReact-AV1R
 Full stack web aplication with React
->>>>>>> 23f92944697aac4cd4dacbb227c314ef6d8bf971
+
